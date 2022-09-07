@@ -32,7 +32,7 @@ function ajaxRequest({
    * @param {Object} xhr - the error message
    */
   function handleLoad(xhr) {
-
+ 
   }
 
   /**
